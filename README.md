@@ -1,2 +1,5 @@
 # rust-window-clipped
-rust implementation of the tilled window approach
+
+- rust implementation of the tilled window approach
+
+Gaurav Sablok
